@@ -10,27 +10,27 @@ INSPIRE is an EU funded project. INSPIRE is Europe's Centre of Excellence on inc
 ## List of scripts
 
 <ol>
-<li>01_Response_rate_by_country</li>
-<li>02_Response_rate_by_country_cluster</li>
-<li>03_Response_rate_by_language</li>
-<li>04_Response_rate_by_type_of_organisation</li>
-<li>05_People_and_functions_fullfilling_the_survey</li>
-<li>06_Prevalence_survey_organisation_type</li>
-<li>07_Reasons_for_not_having_a_GEP</li>
-<li>08_Kind of GEP or equivalent</li>
-<li>09_Year_of_the_first_GEP_in_the_organsiation</li>
-<li>10_Year_of_the_first_GEP_in_the_organsiation - only 2020 and 2024/li>
-<li>11_Influence_of_eligibility_criterion to set up a GEP</li>
-<li>12_Publication_of_the_GEP</li>
-<li>13_Language_of_the_GEP</li>
-<li>14_Mean_of_ratings_changes_with_and_without_GEP</li>
-<li>15_Mean_of_ratings_stabilisation_with_and_without_GEP</li>
-<li>16_Mean_of_ratings_stabilisation_before_2021_and_after_2021</li>
-<li>18_Mean_of_ratings_stabilisation_with_and_without_financial_resources</li>
-<li>19_Mean_of_ratings_changes_country_cluster</li>
-<li>20_Mean_of_ratings_stabilisation_country_cluster</li>
-<li>21_Relevance_of_the_GEP_on_the_achieved_positive_changes</li>
-<li>22_Correlation between the relevance of the GEP for achieved positive changes and</li>
+<li>Response rate by country</li>
+<li>Response rate by country cluster</li>
+<li>Response rate by language</li>
+<li>Response rate by type of organisation</li>
+<li>People and functions fullfilling the survey</li>
+<li>Prevalence survey organisation type</li>
+<li>Reasons for not having a GEP</li>
+<li>Kind of GEP or equivalent</li>
+<li>Yea of the first GEP in the organsiation</li>
+<li>Year of the first GEP in the organsiation - only 2020 and 2024</li>
+<li>Influence of eligibility criterion to set up a GEP</li>
+<li>Publication of the GEP</li>
+<li>Language of the GEP</li>
+<li>Mean of ratings changes with and without GEP</li>
+<li>Mean of ratings stabilisation with and without GEP</li>
+<li>Mean of ratings stabilisation before 2021 and after 2021</li>
+<li>Mean of ratings stabilisation with and without financial resources</li>
+<li>Mean of ratings changes country cluster</li>
+<li>Mean of ratings stabilisation country cluster</li>
+<li>Relevance of the GEP on the achieved positive changes</li>
+<li>Correlation between the relevance of the GEP for achieved positive changes and achieved stabilisation</li>
 
 
 </ol>
